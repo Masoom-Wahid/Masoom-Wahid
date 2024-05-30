@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello
 
-<!--
-**Masoom-Wahid/Masoom-Wahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Masoom Wahid, a backend developer living in Kabul, Afghanistan.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Filio](https://github.com/Masoom-Wahid/filio)), A Background File Organizer Written In Rust Which lets u Organize files By Their Extension Or Name.
+* [KardanLeetBackend](https://github.com/Masoom-Wahid/KardanLeetBackend), An API for Local Programming Contests Supporting Upto 9 Lanuages
+* [Morasilat](https://murasilat.vercel.app), Official application for transmission of documents throughout the Kabul University
+
+## Lanuages And Tools
+* Python
+* Rust
+* SQL
+
+## Contact Me
+You can reach me at <masoom.dev@proton.me>.
