@@ -10,7 +10,11 @@ I'm Masoom Wahid, a backend developer living in Kabul, Afghanistan.
 
 ## Lanuages And Tools
 * Python
+* Golang
 * Rust
+* Js
+* Django
+* Nginx
 * SQL
 
 ## Contact Me
