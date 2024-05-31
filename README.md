@@ -1,6 +1,6 @@
 ## Hello
 
-I'm Masoom Wahid, a backend developer living in Kabul, Afghanistan.
+I'm Masoom Wahid, a Backend developer and Competitive programmer. Currently, I'm expanding my knowledge by studying design principles and diving deeper into the world of competitive programming through the Competitive Programming Handbook. With a strong foundation in programming languages, I'm proficient in Django, Python, Go, and Rust. In the past,I secured the 10th position in the West Asia ICPC competition. I'm passionate about staying up-to-date with the latest developments in the field and exploring new technologies to improve my skills.
 
 ## Projects
 
