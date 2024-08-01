@@ -5,6 +5,7 @@ I'm Masoom Wahid, a Backend developer and Competitive programmer. Currently, I'm
 ## Projects
 
 * [Filio](https://github.com/Masoom-Wahid/filio), A Background File Organizer Written In Rust Which lets u Organize files By Their Extension Or Name.
+* [HttpRs](https://github.com/Masoom-Wahid/httprs) A minimal http webserver written in Rust
 * [KardanLeetBackend](https://github.com/Masoom-Wahid/KardanLeetBackend), Official app used by Kardan University for local programming contests.
 * [Morasilat](https://murasilat.vercel.app), Official application for transmission of documents throughout the Kabul University
 
