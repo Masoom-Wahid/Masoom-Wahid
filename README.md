@@ -6,6 +6,7 @@ Currently I am studying assembly and competitive programming . I'm proficient in
 
 ## Achievements
 2024 ICPC ASIA KABUL REGIONAL CHAMPION
+<br>
 2023 ICPC ASIA KABUL REGIONAL 10th
 
 
