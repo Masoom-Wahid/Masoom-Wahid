@@ -1,6 +1,13 @@
 ## Hello
 
-I'm Masoom Wahid, a Backend developer and Competitive programmer. Currently, I'm expanding my knowledge by studying design principles and diving deeper into the world of competitive programming through the Competitive Programming Handbook. With a strong foundation in programming languages, I'm proficient in Django, Python, Go, and Rust. In the past,I secured the 10th position in the West Asia ICPC competition. I'm passionate about staying up-to-date with the latest developments in the field and exploring new technologies to improve my skills.
+I'm Masoom Wahid, a Backend developer/Rust Dev and Competitive programmer. I'm also passionate Compilers and Interpeters.
+Currently I am studying assembly and competitive programming . I'm proficient in Django, Python, Golang, and Rust and TypeScript.
+
+
+## Achievements
+2024 ICPC ASIA KABUL REGIONAL CHAMPION
+2023 ICPC ASIA KABUL REGIONAL 10th
+
 
 ## Projects
 * [Drlang](https://github.com/Masoom-Wahid/Drlang) A Hobby Programming Lanuage Made With 'Dari' KeyWords using C 
