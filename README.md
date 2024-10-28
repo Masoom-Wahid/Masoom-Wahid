@@ -1,6 +1,6 @@
 ## Hello
 
-I'm Masoom Wahid, a Backend developer/Rust Dev and Competitive programmer. I'm also passionate Compilers and Interpeters.
+I'm Masoom Wahid, a Backend developer/Rust Dev and Competitive programmer.
 Currently I am studying assembly and competitive programming . I'm proficient in Django, Python, Golang, and Rust and TypeScript.
 
 
