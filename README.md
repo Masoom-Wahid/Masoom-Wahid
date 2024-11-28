@@ -17,9 +17,12 @@ Currently I am studying assembly and competitive programming . I'm proficient in
 * [KardanLeetBackend](https://github.com/Masoom-Wahid/KardanLeetBackend), Official app used by Kardan University for local programming contests.
 * [Morasilat](https://murasilat.vercel.app), Official application for transmission of documents throughout the Kabul University
 
-[![Masoom's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Masoom-Wahid&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Lanuages And Tools
+[![Masoom's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Masoom-Wahid&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 * Python
 * Django
 * Golang
